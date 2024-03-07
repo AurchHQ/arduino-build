@@ -1,0 +1,12 @@
+{
+  "name": "arduino-build",
+  "author": "Jeremy Blalock",
+  "version": "0.1.0",
+  "license": "MIT",
+  "dependencies": {
+    "fsevents": "^2.3.3"
+  },
+  "bin": {
+    "arduino-build": "./watch.js"
+  }
+}
